@@ -8,4 +8,5 @@ Pregunta 3:
 respuesta: A
 
 Pregunta 4:  
-respuesta: B
+respuesta: B.
+..
