@@ -1,0 +1,15 @@
+Prueba 1:
+Ruta: http://localhost:3000
+
+Resultado:
+Muestra el mensaje Servidor activo
+
+Prueba 2:
+Ruta: http://localhost:3000/saludo
+
+Resultado:
+Muestra el mensaje Hola comunidad.
+
+Prueba 3:
+Ruta: http://localhost:3000/mensaje/juan
+
